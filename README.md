@@ -7,8 +7,10 @@
 3. Устанавливаем git в систему
 4. Создаем папку, в которой будут храниться «Vaults/Хранилище», в ней папку с названием репозитория
 5. Собираем http-ссылку для синхронизации с гитом:
+
 	Формат ссылки:
 	`https://<PERSONAL_ACCESS_TOKEN>@github.com/<USERNAME>/<REPOSITORY>.git`
+	
 	Пример:
 	`https://ghp_1wKdGc4IhVCHxXEaKClMNp1rEMwsHu1f5zNZ@github.com/myaccount/my-obsidian-vault.git`
 6. Запускаем консоль в системе
