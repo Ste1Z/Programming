@@ -1,6 +1,0 @@
-1. [[Java Core]]
-2. [[Spring]]
-3. [[Hibernate]]
-4. [[Tests]]
-5. [[DevOps]]
-6. [[Paradigms]]
