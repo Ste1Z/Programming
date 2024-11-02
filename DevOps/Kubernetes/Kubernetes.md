@@ -35,6 +35,8 @@ Kubernetes — это система оркестрации контейнеро
 - Kube controller manager
 - Cloud controller manager
 - etcd
+- Kubectl
+- Dashboard
 
 [[Kubernetes#^3aef8d|К содержанию]]
 ## Как работает:
