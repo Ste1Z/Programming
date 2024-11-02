@@ -34,6 +34,7 @@ Kubernetes — это система оркестрации контейнеро
 - Sheduler
 - Kube controller manager
 - Cloud controller manager
+- etcd
 
 [[Kubernetes#^3aef8d|К содержанию]]
 ## Как работает:
