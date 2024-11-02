@@ -31,6 +31,9 @@ Kubernetes — это система оркестрации контейнеро
 - Kube-proxy
 - Container runtime
 - API Server
+- Sheduler
+- Kube controller manager
+- Cloud controller manager
 
 [[Kubernetes#^3aef8d|К содержанию]]
 ## Как работает:
