@@ -1,0 +1,3 @@
+Назад к: [[Garbage Collector]]
+
+---

@@ -1,6 +1,15 @@
 Назад к: [[Java Core]]
 
 ---
+## [[Serial GC]]
+## [[Parallel GC]]
+## [[Concurrent Mark-Sweep GC]]
+## [[Garbage-First (G1) GC]]
+## [[Epsilon GC]]
+## [[ZGC]]
+## [[Shenandoah GC]]
+
+---
 ## Содержание:
 
 ^e46a15
@@ -54,12 +63,6 @@
 ---
 ## Возможные вопросы:
 Виды сборщиков мусора.
-Как работает Parallel GC?
-Как работает Concurrent Mark-Sweep GC?
-Как работает Garbage-First (G1) GC?
-Как работает Epsilon GC?
-Как работает ZGC?
-Как работает Shenandoah GC?
 
 **Виды сборщиков мусора.**
 1. **Serial Garbage Collector**
@@ -90,18 +93,6 @@
     - Поддерживает большие объемы памяти и работает со сверхкороткими паузами, минимизируя время "Stop-the-World".
     - Применяется в сценариях с высокими требованиями к производительности.
     - Включается с параметром `-XX:+UseShenandoahGC` и доступен в Java 12 и выше.
-
-
-**Как работает Parallel GC?**
-
-**Как работает Concurrent Mark-Sweep GC?**
-
-**Как работает Garbage-First (G1) GC?**
-
-**Как работает ZGC?**
-
-**Как работает Shenandoah GC?**
-
 
 [[Garbage Collector#^e46a15|К содержанию]]
 
